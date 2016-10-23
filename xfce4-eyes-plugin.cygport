@@ -1,7 +1,7 @@
 inherit xfce4
 
 NAME="xfce4-eyes-plugin"
-VERSION=4.4.2
+VERSION=4.4.5
 RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce4 eyes panel plugin"
